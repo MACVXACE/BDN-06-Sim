@@ -1,4 +1,4 @@
-# Intrabody Link Simulator (IBLS)
+# BDN-06: Intrabody Link Simulator (IBLS)
 
 ### A discrete-event physical- and MAC-layer simulator for galvanic & capacitive body-coupled communication links
 
@@ -7,7 +7,6 @@
 ![Status](https://img.shields.io/badge/status-research%20%2F%20experimental-orange)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-> Rename this project, update the badges, and drop in a `LICENSE` file before publishing — the placeholders above assume MIT but any OSI license will drop in cleanly.
 
 ---
 
